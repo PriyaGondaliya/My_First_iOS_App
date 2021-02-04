@@ -7,6 +7,8 @@
 <h4> 2. Installation of XCode </h4>
 <h4> 3. Creating App </h4>
 
+//-------------------------------------------------------------------------------------------------------------------------------------------------------//
+
 <h1><b> 1. Identifying mac Version </b></h1>
 
   <h3> 1.1 From anywhere on the Mac, look in the upper left corner for the Apple menu and click that </h3>
@@ -17,6 +19,8 @@
 
   <h3> 1.3 The Mac system overview panel will appear on screen, showing what Mac OS release and version is installed on the computer </h3>
   <img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.jpg" width="700" height="400">
+
+//-------------------------------------------------------------------------------------------------------------------------------------------------------//
 
 <h1><b> 2. Installation of XCode </b></h1>
 
@@ -36,7 +40,11 @@
   <img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.3.jpg" width="700" height="400">
 
   <h3> Click Install in this prompt. Xcode will now attempt to install the Xcode Command Line Tools on your Mac. They are CLI tools used to compile apps with Xcode, among other things. You often need these tools to work with other programming languages on Mac, as well. </h3>
+  
+  <h2> Having successfully installed the Xcode, the next step is to launch it. </h2>
+  
+//-------------------------------------------------------------------------------------------------------------------------------------------------------//
 
+<h1><b> 3. Creating App </b></h1>
 
-
-
+  <h3>  3.1  </h3>
