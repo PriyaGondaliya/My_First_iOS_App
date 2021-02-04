@@ -49,24 +49,30 @@
 <h1><b> 3. Creating App </b></h1>
 
   <h3> 3.1 Start 'Xcode' or menu: File | New | Project  </h3>
-  	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.1.png" width="700" height="400">
+  	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.1.jpg" width="700" height="400">
 
   <h3> 3.2 Creates a basic template for an application containing a single view and corresponding view controller. </h3>
-  	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.2.png" width="700" height="400">
+  	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.2.jpg" width="700" height="400">
 
-  <h3>  </h3>
-    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
+  <h3> 3.3 We are going to use the Single View Application template so select this option from the new project window and click Next to configure some more project options </h3>
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.3.jpg" width="700" height="400">
 
-  <h3>  </h3>
-    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
+  <h3> 3.4 Now let’s make it interactive so our app does something
+Drag and drop the Label on to the screen.Once it is in position release the mouse button to drop it at that location.
+ </h3>
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.6.jpg" width="700" height="400">
 
-  <h3>  </h3>
-    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
+  <h3> 3.5 Click on the button and then hold down the control key.
+Then click and drag from the button over to screen. </h3>
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.7.jpg" width="700" height="400">
 
-  <h3>  </h3>
-    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
-
-  <h3>  </h3>
+  <h3> 3.6 Let's look at a ViewController.swift file </h3>
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.8.jpg" width="700" height="400">
+	<br>
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.9.jpg" width="700" height="400">
+  
+  <h3> 3.7 Before an app can be run it must first be compiled. Once successfully compiled it may be run either within a simulator or on a physical iPhone. </h3>
+  	<h2> Click on the Run toolbar button to compile the code and run the app in the simulator. The small panel in the center of the Xcode toolbar will report the progress of the build process together with any problems or errors that cause the build process to fail. Once the app is built, the simulator will start. </h2>
     	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
 
   <h3>  </h3>
