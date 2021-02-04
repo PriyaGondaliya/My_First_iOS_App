@@ -8,7 +8,7 @@
 <h4> 3. Creating App </h4>
 
 <h2><b> 1. Identifying mac Version </b></h2>
-![alt text](https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/1.jpg?raw=true)
+![1](https://user-images.githubusercontent.com/63896112/106916943-c12dbf00-66d5-11eb-8a92-1a301fd3e664.jpg)
 
 <h4> 1.1 From anywhere on the Mac, look in the upper left corner for the Apple menu and click that </h4>
 
