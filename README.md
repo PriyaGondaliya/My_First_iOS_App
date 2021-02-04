@@ -6,6 +6,7 @@
 <h4> 1. Identifying mac version </h4>
 <h4> 2. Installation of XCode </h4>
 <h4> 3. Creating App </h4>
+<h4> 4. Useful Definition </h4>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -48,3 +49,12 @@
 <h1><b> 3. Creating App </b></h1>
 
   <h3>  3.1  </h3>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h1><b> 4. Useful Definition </b></h1>
+
+  <h2> 4.1 IB Outlet :</h2>
+  <h3> 
+      * When you connect your storyboard to your code Xcode inserts two special markers: @IBAction and @IBOutlet. Both of these effectively do nothing when you build your  app, but they are still important because Xcode uses them to understand which of your properties and methods are relevant to Interface Builder.
+In the case of @IBOutlet, this is a connection from an Interface Builder user interface component – e.g. a UIButton – to a property in a view controller or other piece of Swift code. To the left of the code you should see a black circle with a ring around it, which is Xcode’s visual confirmation that a given @IBOutlet has an active connection.   </h3>
