@@ -55,6 +55,6 @@
 <h1><b> 4. Useful Definition </b></h1>
 
   <h2> 4.1 IB Outlet :</h2>
-  <h3> 
-      When you connect your storyboard to your code Xcode inserts two special markers: <u> @IBAction </u> and <u> @IBOutlet </u>. Both of these effectively do nothing when you build your  app, but they are still important because Xcode uses them to understand which of your properties and methods are relevant to Interface Builder.
-In the case of <u> @IBOutlet </u>, this is a connection from an Interface Builder user interface component – e.g. a <u> UIButton </u>– to a property in a view controller or other piece of Swift code. To the left of the code you should see a black circle with a ring around it, which is Xcode’s visual confirmation that a given <u> @IBOutlet <u> has an active connection.   </h3>
+  <h4> 
+      When you connect your storyboard to your code Xcode inserts two special markers: <h3> @IBAction </h3> and <h3> @IBOutlet </h3>. Both of these effectively do nothing when you build your  app, but they are still important because Xcode uses them to understand which of your properties and methods are relevant to Interface Builder.
+In the case of <h3> @IBOutlet </h3>, this is a connection from an Interface Builder user interface component – e.g. a <h3> UIButton </h3>– to a property in a view controller or other piece of Swift code. To the left of the code you should see a black circle with a ring around it, which is Xcode’s visual confirmation that a given <h3> @IBOutlet <h3> has an active connection.   </h4>
