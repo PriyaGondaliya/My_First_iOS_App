@@ -9,11 +9,11 @@
 
 <h2><b> 1. Identifying mac Version </b></h2>
 
-<h3> 1.1 From anywhere on the Mac, look in the upper left corner for the Apple menu and click that </h3>
+<h4> 1.1 From anywhere on the Mac, look in the upper left corner for the Apple menu and click that </h4>
 
-<h3> 1.2 From the Apple menu choose “About This Mac” </h3>
+<h4> 1.2 From the Apple menu choose “About This Mac” </h4>
 
-<h3> 1.3 The Mac system overview panel will appear on screen, showing what Mac OS release and version is installed on the computer </h3>
+<h4> 1.3 The Mac system overview panel will appear on screen, showing what Mac OS release and version is installed on the computer </h4>
 
 
 
