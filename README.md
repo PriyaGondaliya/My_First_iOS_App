@@ -8,7 +8,7 @@
 <h4> 3. Creating App </h4>
 
 <h2><b> 1. Identifying mac Version </b></h2>
-
+![](1.jpg)
 <h4> 1.1 From anywhere on the Mac, look in the upper left corner for the Apple menu and click that </h4>
 
 <h4> 1.2 From the Apple menu choose “About This Mac” </h4>
