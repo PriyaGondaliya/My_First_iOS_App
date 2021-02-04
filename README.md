@@ -9,13 +9,14 @@
 
 <h2><b> 1. Identifying mac Version </b></h2>
 
-<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/1.jpg" width="700" height="400">
+  <h4> 1.1 From anywhere on the Mac, look in the upper left corner for the Apple menu and click that </h4>
+  <img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/1.jpg" width="700" height="400">
 
-<h4> 1.1 From anywhere on the Mac, look in the upper left corner for the Apple menu and click that </h4>
+  <h4> 1.2 From the Apple menu choose “About This Mac” </h4>
+  <img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.jpg" width="700" height="400">
 
-<h4> 1.2 From the Apple menu choose “About This Mac” </h4>
-
-<h4> 1.3 The Mac system overview panel will appear on screen, showing what Mac OS release and version is installed on the computer </h4>
+  <h4> 1.3 The Mac system overview panel will appear on screen, showing what Mac OS release and version is installed on the computer </h4>
+  <img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.jpg" width="700" height="400">
 
 
 
