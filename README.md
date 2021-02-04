@@ -9,7 +9,7 @@
 
 <h2><b> 1. Identifying mac Version </b></h2>
 
-![](https://github.com/kinjal-147/My_First_iOS_App/issues/1#issue-801402625) 
+<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/1.jpg" width="700" height="400">
 
 <h4> 1.1 From anywhere on the Mac, look in the upper left corner for the Apple menu and click that </h4>
 
