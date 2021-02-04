@@ -73,13 +73,13 @@ Then click and drag from the button over to screen. </h3>
   
   <h3> 3.7 Before an app can be run it must first be compiled. Once successfully compiled it may be run either within a simulator or on a physical iPhone. </h3>
   	<h2> Click on the Run toolbar button to compile the code and run the app in the simulator. The small panel in the center of the Xcode toolbar will report the progress of the build process together with any problems or errors that cause the build process to fail. Once the app is built, the simulator will start. </h2>
-    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.13.jpg" width="700" height="400">
 
-  <h3>  </h3>
-    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
+  <h3> 3.8  Initially “Label” is displayed. </h3>
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.11.jpg" width="700" height="400">
 
-  <h3>  </h3>
-    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
+  <h3> 3.9 Once is click on the button “Button”, it will change to “Hello World” as shown below. </h3>
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.12.jpg" width="700" height="400">
 
   <h3>  </h3>
   <h3>  </h3>
