@@ -48,7 +48,38 @@
 
 <h1><b> 3. Creating App </b></h1>
 
-  <h3>  3.1  </h3>
+  <h3> 3.1 Start 'Xcode' or menu: File | New | Project  </h3>
+  	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.1.png" width="700" height="400">
+
+  <h3> 3.2 Creates a basic template for an application containing a single view and corresponding view controller. </h3>
+  	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/3.2.png" width="700" height="400">
+
+  <h3>  </h3>
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
+
+  <h3>  </h3>
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
+
+  <h3>  </h3>
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
+
+  <h3>  </h3>
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
+
+  <h3>  </h3>
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
+
+  <h3>  </h3>
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
+
+  <h3>  </h3>
+    	<img src="https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/2.1.jpg" width="700" height="400">
+
+  <h3>  </h3>
+  <h3>  </h3>
+  <h3>  </h3>
+  <h3>  </h3>
+  <h3>  </h3>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
