@@ -8,7 +8,8 @@
 <h4> 3. Creating App </h4>
 
 <h2><b> 1. Identifying mac Version </b></h2>
-![](1.jpg)
+![alt text](https://github.com/kinjal-147/My_First_iOS_App/blob/main/Screenshots/1.jpg?raw=true)
+
 <h4> 1.1 From anywhere on the Mac, look in the upper left corner for the Apple menu and click that </h4>
 
 <h4> 1.2 From the Apple menu choose “About This Mac” </h4>
